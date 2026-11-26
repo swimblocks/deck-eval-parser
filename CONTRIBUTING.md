@@ -1,10 +1,11 @@
 # Contributing to deck-eval-parser
 
 The [SwimBlocks contributing standards](https://github.com/swimblocks/.github/blob/main/CONTRIBUTING.md)
-apply to this repo, including its
-[workflow](https://github.com/swimblocks/.github/blob/main/CONTRIBUTING.md#workflow-issue--branch--pr--squash-merge);
-this file adds what is particular to it. First time setting up a SwimBlocks repo? See
+apply to this repo; this file adds what is particular to it.
+
+First time setting up a SwimBlocks repo? See
 [development setup](https://github.com/swimblocks/.github/blob/main/docs/development.md).
+
 Coding agents start from [`AGENTS.md`](AGENTS.md).
 
 ## Commit messages
