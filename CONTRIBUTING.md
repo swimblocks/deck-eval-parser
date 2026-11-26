@@ -22,7 +22,7 @@ Examples:
 
 - Python 3.12.
 - Standard library imports, then third-party, then local — separated by blank lines.
-- No linter or formatter is enforced (matches `canada-swim-tech-survey`); just be consistent with what's already in the file.
+- No linter or formatter is enforced yet ([swimblocks/.github#38](https://github.com/swimblocks/.github/issues/38)); just be consistent with what's already in the file.
 - Each module: `log = logging.getLogger(__name__)` at the top. Use `log.info` / `log.warning` / `log.error`; `print()` is reserved for the CLI's direct user-facing output.
 
 ## Testing
