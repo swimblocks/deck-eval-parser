@@ -1,13 +1,12 @@
-# Contributing
+# Contributing to deck-eval-parser
 
-This repo follows the same patterns as [`canada-swim-tech-survey`](https://github.com/swimblocks/swim-club-tech-survey).
+The [SwimBlocks contributing standards](https://github.com/swimblocks/.github/blob/main/CONTRIBUTING.md)
+apply to this repo; this file adds what is particular to it.
 
-## Workflow
+First time setting up a SwimBlocks repo? See
+[development setup](https://github.com/swimblocks/.github/blob/main/docs/development.md).
 
-1. **File or claim a GitHub issue** for what you're going to do.
-2. **Create a branch** named `{issue-number}-{kebab-slug}`. Example: `12-add-quebec-template`.
-3. **Open a PR** that references the issue (`Closes #12`).
-4. **Squash-merge** to `main` when reviewed.
+Coding agents start from [`AGENTS.md`](AGENTS.md).
 
 ## Commit messages
 
